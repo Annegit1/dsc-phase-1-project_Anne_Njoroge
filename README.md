@@ -14,23 +14,26 @@ Microsoft would like to engag in the ovie industry just as other movie producers
 
 **Questions to Consider**
 - What genres have a high worldwide gross that MicroSoft can venture in?
+  
 - Does there exist a profit in movie production
+
 - How does ROI vary based on the runtime minutes of a movie?
+  
 - How does budget and gross correlate?
+
 - Why are these questions important from a business perspective?
+  
 ROI is important to decide which movie making ventures make sense to fund vs. using the money in other Microsoft projects.
 
 **Data Understanding**
 
 In the folder zippedData in the associated GitHub repository are movie datasets from:
 
-Box Office Mojo
+bom.movie_gross.csv
 
-IMDB
+tn.movie_budgets.csv
 
-Rotten Tomatoes
-
-TheMovieDB.org
+title.basics.csv
 
 
 **Questions to consider:**
