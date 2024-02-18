@@ -1,5 +1,8 @@
-# dsc-phase-1-project_Anne_Njoroge
+**Microsoft Movie Studio Investment**
+
 ![image](https://github.com/Annegit1/dsc-phase-1-project_Anne_Njoroge/assets/151770828/a81fecb5-375f-42a8-a543-47c0c6cf5921)
+
+Written by **Anne Njoroge**
 
 **Overview**
 
@@ -97,10 +100,27 @@ Data was then stored for use for visualization.
 
 ![image](https://github.com/Annegit1/dsc-phase-1-project_Anne_Njoroge/assets/151770828/632fa011-1c99-46ce-900b-1df19e7b5756)
 
+**Data Modeling**
 
+Data was analyzed through performing regressions on production budget and worldwide gross. 
 
+Correlation matrices were also performed to visualize how production budget and worldwide gross inter-related and other metrics were applied to help generate a recommendation of the type of genres and movies to create. An examination of many different parts of the data and visualizations was conducted to come up with significant results. data cleaning and to mitigate quality issues resulted in an impactful analysis process.
 
+Microsoft has a lot of capital, but also lots of other expenses. The latter was induced into the analysis of the data with multiple target variables to assist Microsoft in make data driven decisions in the movie industry investment.
 
+**Evaluation**
+
+Types of genres that would be ideal for investment and relating positively with key metrics were identified for Microsoft to venture into. Summary statistics indicate that the recommendations should increase expected profit and ROI when making a generic movie.
+
+**Conclusions and recommendations**
+
+From the analysis, the following are advised.
+
+I recommend making a film that has a runtime between 80-120 mins. For a low budget movie, it should be a short one while for a high budget movie, it should be long.
+
+Microsoft can proceed to venture int the industry as trend of profit shows a positive increase from a period of year analysis. However, some circumstances may cause a sgnificant drop in production and a risk analysis should be further investigated.
+
+Microsoft should choose to start film production in any of the genres Mystery, Crime and Sci-Fi films as they have greater ROIs.
 
 
 
